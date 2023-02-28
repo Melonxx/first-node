@@ -25,7 +25,7 @@
     "mysql": "^2.15.0",
     "node-fetch": "^2.1.2",
     "request": "^2.87.0",
-    "thinkorm": "^3.1.7",
+    "thinkorm": "^3.2.10",
     "ueditor": "^1.2.3",
     "xss": "^1.0.3"
   },
